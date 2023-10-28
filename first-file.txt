@@ -1,2 +1,3 @@
 This test is belongs to Initial commit
 This message is from branch-a
+This message belongs to branch-b
